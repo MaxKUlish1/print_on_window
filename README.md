@@ -1,2 +1,2 @@
 # print_on_window
-Easy print on window
+Скрипт создает окона для вывода информации.
